@@ -174,32 +174,6 @@ return`━━━❲ 𝙃𝙔𝙐𝙂𝘼-𝙌𝘿 ❳━━━
 ┃▢ ${prefix}debase32
 ┃▢ ${prefix}debase64
 ┣━━━━━━━━━━━━━━
-┣━❲ 𝙍𝘼𝙉𝘿𝙊𝙈 𝘾𝙀𝙆 ❳
-┃▢ ${prefix}cekjelek
-┃▢ ${prefix}cekcantik
-┃▢ ${prefix}cekganteng
-┃▢ ${prefix}ceksad
-┃▢ ${prefix}cekharam
-┃▢ ${prefix}cekhalal
-┃▢ ${prefix}cekbego
-┃▢ ${prefix}cekanjing
-┃▢ ${prefix}cekbiadab
-┃▢ ${prefix}cekramah
-┃▢ ${prefix}ceksatir
-┃▢ ${prefix}cekmanis
-┃▢ ${prefix}cekpahit
-┃▢ ${prefix}cekhitam
-┃▢ ${prefix}cekrasis
-┃▢ ${prefix}cekbaik
-┃▢ ${prefix}cekjahat
-┃▢ ${prefix}cekkaya
-┃▢ ${prefix}cekmiskin
-┃▢ ${prefix}cekpintar
-┃▢ ${prefix}cekbodoh
-┃▢ ${prefix}cekimut
-┃▢ ${prefix}cekkocak
-┃▢ ${prefix}cekkadang
-┣━━━━━━━━━━━━━━
 ┣━❲ 𝙎𝙀𝙍𝙏𝙄𝙁𝙄𝙆𝘼𝙏 𝙈𝙀𝙉𝙐 ❳
 ┃▢ ${prefix}toloserti <nama>
 ┃▢ ${prefix}badgirlserti <nama>
