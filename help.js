@@ -174,23 +174,6 @@ return`━━━❲ 𝙃𝙔𝙐𝙂𝘼-𝙌𝘿 ❳━━━
 ┃▢ ${prefix}debase32
 ┃▢ ${prefix}debase64
 ┣━━━━━━━━━━━━━━
-┣━❲ 𝘽𝙐𝙂𝙑𝙄𝙋 𝙈𝙀𝙉𝙐 ❳
-┃▢ ${prefix}sendbug 628xxx
-┃▢ ${prefix}philips 628xxx
-┃▢ ${prefix}philips2 628xxx
-┃▢ ${prefix}philips3 628xxx
-┃▢ ${prefix}santet @tag
-┃▢ ${prefix}santet2 @tag
-┃▢ ${prefix}santet3 @tag
-┃▢ ${prefix}virtex 628xxx
-┃▢ ${prefix}virtex2 628xxx
-┃▢ ${prefix}virtex3 628xxx
-┃▢ ${prefix}bug1 628xxx
-┃▢ ${prefix}bug2 628xxx
-┃▢ ${prefix}bug3 628xxx
-┃▢ ${prefix}bug4 628xxx
-┃▢ ${prefix}bug5 628xxx
-┣━━━━━━━━━━━━━━
 ┣━❲ 𝙍𝘼𝙉𝘿𝙊𝙈 𝘾𝙀𝙆 ❳
 ┃▢ ${prefix}cekjelek
 ┃▢ ${prefix}cekcantik
